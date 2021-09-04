@@ -1,0 +1,15 @@
+.tebal{
+	font-weight: bold;
+}
+.nav{
+	/*background-color: orange;*/
+	margin-top: 20px;
+
+
+}
+.nav a{
+	color: orange;
+}
+h5{
+	color: green;
+}
