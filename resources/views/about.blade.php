@@ -33,7 +33,6 @@
 
 				<h3 class="tebal">Bitcoin -  Australian Dollar (AUD)</h3>
 
-				<?=dd($data)?>
 				<p>Harga Beli</p>
 				<h5 class="">$ {{number_format($data['AUD']['buy'])}}</h5>
 				<p>Harga Jual</p>
@@ -114,6 +113,6 @@
 
 
 
-<script src="assets/js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 </body>
 </html>
